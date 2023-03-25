@@ -7,3 +7,4 @@ RUN apt-get install -y nodejs
 COPY . /app/
 WORKDIR /app/
 CMD bash start
+
